@@ -13,7 +13,7 @@ Principle Component Analysis(PCA) is a common dimensionality reduction technique
 Dataset consists of 26 features, but with correlation matrix's help I figured out which features affect results the most and chose main 4(spread1, PPE, MDVP:Flo(Hz), MDVP:Fo(Hz)).
 
 # Results
-![PCA Plot](https://handertolium.github.com/PCA-for-Visualization-and-Classification/PCA_plot.png)
+![PCA Plot](https://handertolium.github.com/images/PCA_plot.png)
 
 
 
